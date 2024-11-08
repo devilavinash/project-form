@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LOGINFORM%20CRAZY%20PROJECT/static/css/main.d221dc40.css",
+    "main.js": "/LOGINFORM%20CRAZY%20PROJECT/static/js/main.11b18d6a.js",
+    "index.html": "/LOGINFORM%20CRAZY%20PROJECT/index.html",
+    "main.d221dc40.css.map": "/LOGINFORM%20CRAZY%20PROJECT/static/css/main.d221dc40.css.map",
+    "main.11b18d6a.js.map": "/LOGINFORM%20CRAZY%20PROJECT/static/js/main.11b18d6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.11b18d6a.js"
+  ]
+}
